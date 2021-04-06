@@ -1,4 +1,4 @@
-# Data-Entry-Automation
+# Data Entry Automation
 
 Webscraping project
 ------------------------------
