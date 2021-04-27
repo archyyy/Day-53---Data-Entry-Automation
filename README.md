@@ -1,5 +1,7 @@
 # Data Entry Automation
 
-Webscraping project
+Webscraping Project
 
-It take rents options from vivareal and create an entry in a google forms.
+Uses beautiful soup and selenium
+
+Takes rental options from vivareal.com and creates an entry in a google form.
